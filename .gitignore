@@ -1,1 +1,4 @@
 music/**
+.venv
+.vscode
+.__pycache__

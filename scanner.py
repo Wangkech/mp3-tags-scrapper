@@ -5,69 +5,49 @@ from mutagen.easyid3 import EasyID3, EasyID3KeyError
 import math
 import time
 
+from folder import Folder
 
-# path = Path.home()/"Music/Music"
-music_dir = Path.cwd()/"music"
+
 start_time = time.time()
+dir = Path.cwd()/"music"
+print(dir.name)
+song_folder = Folder(dir)
 
-def scan_music (path):
-    files = []
-    for file in path.iterdir():
-        if file.is_file() and  file.suffix.lower() in ['.mp3']:
-        # if file.is_file() and  file.suffix in ['.mp3','m4a', '.wav', '.flac']:
-            files.append(file)
-    return files
+def print_tags(song):
 
-
-def print_tags(files):
-    for file in files:
-        audio_file = EasyMP3(file) 
-        try:
-            audio_file.pprint(audio_file.tags())
-            print(f"{files.index(file) + 1} {file.name}")
-            print("Title: ", audio_file.get("title"))
-            print("Artist: ", audio_file.get("artist"))
-            print("Album: ", audio_file.get("album"))
-            print()
-        except HeaderNotFoundError or EasyID3KeyError or MutagenError: 
-            print(f"{files.index(file) + 1} {file.name}")
-            print("Title: ", audio_file.get("title"))
-            print("Artist: ", audio_file.get("artist"))
-            print("Album: ", audio_file.get("album"))
-            print()
+    metadata = song.metadata
+    if metadata:
+        print("Title: ", metadata.title)
+        print("Artist: ", metadata.artist)
+        print("Album: ", metadata.album)
+        print()
+    if not metadata:
+        print("This song has no metadata")
+        print()
 
 
+def print_folder_details():
+    print("folder path: ",song_folder.path)
+    print("folder name: ",song_folder.name)
+    print("songs found: " , len(song_folder.songs))
 
-# scan_music(music_dir)
+songs = song_folder.songs
+def print_song_details():
+    for song in songs:
+        print(f"{ song.name }")
+        print(f"Extension: {song.extension}")
+        print(f"size: {song.size}")
+        print(f"length: {song.length}")
+        print("=== Tags ====")
+        print_tags(song)
 
-files = scan_music(music_dir)
-for file in files:
-    
-        file_size = file.stat().st_size /  (1024 * 1024)
-        audio_file = EasyMP3(file)
-        tags = EasyID3(file)
-        duration = int(audio_file.info.length) / 60
-        duration_mins = math.floor(duration)
-        duration_secs = (duration - duration_mins) * 60
-
-        print(f"{files.index(file) + 1} {file.name}")
-        print(f"     Extension:  {file.suffix.lower()}")
-        print(f"     Size:  {file_size:.2f} MB")
-        print(f"     duration: {duration_mins}mins { duration_secs:.0f}s")
-        try:
-            if tags:
-                print(f"     Has Tags: Yes")
-        except EasyID3KeyError : 
-            if not tags:
-                print(f"     Has Tags: No")
-        
-# # files = scan_music(path)
-# # print_tags(files)
-# print_tags(files)
-
+print_folder_details()
+print()
+print_song_details()
 
         
 print()
-print(f"scanned all files in {(time.time() - start_time)*1000:.3f} milliseconds ")
+print(f"scanned in {(time.time() - start_time)*1000:.3f} milliseconds ")
+
 
     
