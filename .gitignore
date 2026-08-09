@@ -2,3 +2,4 @@ music/**
 .venv
 .vscode
 __pycache__
+report.txt
