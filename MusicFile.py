@@ -1,10 +1,32 @@
 from mutagen.mp3 import EasyMP3, HeaderNotFoundError
 from mutagen import File
 from mutagen.easyid3 import EasyID3, EasyID3KeyError
+from pathlib import Path
+import re
+import os
 STATUSES = ["partial"
     ,"complete",
     "missing"
 ]
+
+def clean_title(title):
+    cleaned = re.sub(r'[\x00-\x1f\\/:*?"<>|]', ' ' , title)
+    return cleaned.strip(' .')
+
+
+def  clean_artist(artist):
+    cleaned =  re.sub(r'[\/]', "&", artist)
+    cleaned = re.sub(r'[\x00-\x1f\\/:*?"<>|]', "", cleaned)
+    return cleaned.strip(' .')
+
+class Metadata:
+    def __init__(self, song ):
+        self.artist = song.get("artist")[0]
+        self.title = song.get("title")[0]
+        self.album = song.get("album")[0]
+        self.all_tags = [song.get("album"),song.get("title"),song.get("artist")]
+        # self.year = song.year
+        
 
 class Song:
     def __init__(self,file):
@@ -24,7 +46,7 @@ class Song:
 
     def __load_audio(self, file):
         audio = File(file)
-        self.status = "okay"
+        self.status = "ok"
         self.length =  int(audio.info.length) / 60
 
     def __get_tags(self,file):
@@ -40,15 +62,24 @@ class Song:
         except: 
             self.tag_status = None
             self.metadata = None
+    def  rename(self):
+        dest_folder = Path.cwd()/"cleaned"
+        title = self.metadata.title
+        artist = self.metadata.artist
+        new_name = f"{artist} - {title}{self.extension}"
+        attempts = 0
+        try:
+            os.rename(self.path,  f"{dest_folder/new_name }")
+            return new_name
+        except FileExistsError:
+            attempts += 1
+            new_name = f"{self.metadata.title} - {self.metadata.title} ({attempts}){self.extension} "
+            os.rename(self.path,f"{dest_folder/new_name}" )
+            return self.name
+        except :
+            new_name = f"{clean_artist(artist)} - {clean_title(title)}{self.extension}"
+            os.rename(self.path,  f"{dest_folder/new_name }")
+        return new_name
+                
 
 
-
-
-class Metadata:
-    def __init__(self, song ):
-        self.artist = song.get("artist")
-        self.title = song.get("title")
-        self.album = song.get("album")
-        self.all_tags = [song.get("album"),song.get("title"),song.get("artist")]
-        # self.year = song.year
-        
