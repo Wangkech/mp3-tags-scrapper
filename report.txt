@@ -1,116 +1,16 @@
 folder path: C:\Users\Wangkech\Documents\Projects\mp3-tags-scrapper\music\test
 folder name: test
-songs found: 20
+songs found: 5
 
-b1c4d36f-3582-4ece-966d-6a1d915786fb
+Dax - Dear Alcohol   Official Music Video (128k)
 Extension: .mp3 
-size: 6.12MB
-length: 6.333333333333333
+size: 3.63MB
+length: 3.95
 status: ok
 === Tags ====
-Title:  BP / No Judgement
-Artist:  Chris Brown
-Album: Indigo (Extended)
-
-b51ccfca-f853-4c72-8ecd-3511bd10e16d
-Extension: .mp3 
-size: 3.11MB
-length: 3.1333333333333333
-status: ok
-=== Tags ====
-Title:  Addiction
-Artist:  Ruger / Stefflon Don
-Album: RU The World
-
-c4929474-1a49-4fc5-85b9-c318480ff559
-Extension: .mp3 
-size: 3.54MB
-length: 3.466666666666667
-status: ok
-=== Tags ====
-Title:  Kiss Me More (feat. SZA)
-Artist:  Doja Cat / SZA
-Album: Planet Her
-
-c552decd-2eee-4518-9061-a463ae032b6c
-Extension: .mp3 
-size: 4.08MB
-length: 4.383333333333334
-status: ok
-=== Tags ====
-Title:  Essence (feat. Justin Bieber & Tems)
-Artist:  Wizkid / Justin Bieber / Tems
-Album: Essence (feat. Justin Bieber & Tems)
-
-c6901d73-0f12-4174-a00f-40993116e6d2
-Extension: .mp3 
-size: 2.97MB
-length: 3.0166666666666666
-status: ok
-=== Tags ====
-Title:  Calculate Love
-Artist:  Ruger / BNXN
-Album: RnB
-
-c6c84d47-9e30-4e48-9436-7d370d8f405f
-Extension: .mp3 
-size: 3.85MB
-length: 3.8666666666666667
-status: ok
-=== Tags ====
-Title:  Heat (feat. Gunna)
-Artist:  Chris Brown / Gunna
-Album: Indigo (Extended)
-
-d069a036-1753-4da7-8e89-2a377979c5b7
-Extension: .mp3 
-size: 2.51MB
-length: 2.4833333333333334
-status: ok
-=== Tags ====
-Title:  Lonely
-Artist:  Justin Bieber / Benny Blanco
-Album: Justice (The Complete Edition)
-
-d35340da-4fcb-433c-8067-8a4f804905e0
-Extension: .mp3 
-size: 3.31MB
-length: 3.283333333333333
-status: ok
-=== Tags ====
-Title:  Temporary Lover (feat. Lil Jon)
-Artist:  Chris Brown / Lil Jon
-Album: Indigo (Extended)
-
-d5b64785-7661-4293-a8d2-0d3187956501
-Extension: .mp3 
-size: 3.77MB
-length: 3.85
-status: ok
-=== Tags ====
-Title:  Angels Speak
-Artist:  Justin Bieber / Poo Bear
-Album: Justice (The Complete Edition)
-
-e6d590e4-0350-46cd-8644-cf4386b72a79
-Extension: .mp3 
-size: 2.90MB
-length: 2.9
-status: ok
-=== Tags ====
-Title:  As I Am
-Artist:  Justin Bieber / Khalid
-Album: Justice (The Complete Edition)
-
-e99f688f-5a8e-46cb-9dea-448d012c30e0
-Extension: .mp3 
-size: 2.56MB
-length: 2.566666666666667
-status: ok
-=== Tags ====
-Title:  Bae Bae
-Artist:  Ruger / BNXN
-Album: RnB
+Title:  Dax_-__Dear_Alcohol___Official_Music_Video_(128k)
+Artist:  Dax
+Album: Music
 
 ella_mai_trip_audio_aac_68911
 Extension: .mp3 
@@ -118,56 +18,6 @@ size: 3.37MB
 length: 3.6333333333333333
 status: ok
 === Tags ====
-
-f38e37dd-a099-4e8f-bfc5-64ebbe2ae94a
-Extension: .mp3 
-size: 3.73MB
-length: 3.816666666666667
-status: ok
-=== Tags ====
-Title:  All My Days
-Artist:  Ruger / Sauti Sol
-Album: RU The World
-
-f3ba4f35-430b-437b-a910-65d6cb6f627e
-Extension: .mp3 
-size: 7.92MB
-length: 3.3333333333333335
-status: ok
-=== Tags ====
-Title:  Please Me
-Artist:  Cardi B / Bruno Mars
-Album: Please Me
-
-f5dd00c7-2b6b-4771-bfbd-fbb811e7bb5a
-Extension: .mp3 
-size: 2.98MB
-length: 2.9
-status: ok
-=== Tags ====
-Title:  Happiness (feat. Asake & Gunna)
-Artist:  Sarz / Asake / Gunna
-Album: Happiness (feat. Asake & Gunna)
-
-f6caae17-3783-4ac5-a407-fde083cda058
-Extension: .mp3 
-size: 3.19MB
-length: 3.216666666666667
-status: ok
-=== Tags ====
-Title:  I Can't Be Myself
-Artist:  Justin Bieber / Jaden
-Album: Justice (The Complete Edition)
-
-f999f712-4502-44da-8cba-057e9c4f4263
-Extension: .mp3 
-size: 6.40MB
-length: 6.65
-status: ok
-=== Tags ====
-Title:  Emerald / Burgundy (feat. Juvenile & Juicy J)
-Artist:  Chris Brown / Juvenile / Juicy J
-Album: Indigo (Extended)
 
 favicon
 Extension: .mp3 

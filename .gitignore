@@ -3,3 +3,4 @@ music/**
 .vscode
 __pycache__
 report.txt
+cleaned

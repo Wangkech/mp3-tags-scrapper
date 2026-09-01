@@ -4,36 +4,60 @@ from mutagen.easyid3 import EasyID3, EasyID3KeyError
 from pathlib import Path
 import re
 import os
-STATUSES = ["partial"
-    ,"complete",
-    "missing"
-]
 
-def clean_title(title):
-    cleaned = re.sub(r'[\x00-\x1f\\/:*?"<>|]', ' ' , title)
-    return cleaned.strip(' .')
+STATUSES = ["partial", "complete", "missing"]
+common_tags = ["official", "music", "video", "128k"]
+COMMON_TAGS = set(common_tags)
+COMMON_BITRATE_TAGS = ["128k", "128kbp"]
 
 
-def  clean_artist(artist):
-    cleaned =  re.sub(r'[\/]', "&", artist)
+def clean_title(title, artist):
+    cleaned = re.sub(r'[\x00-\x1f\\/:*?"<>|]', " ", title)
+    cleaned = re.sub(f"{artist}", "", cleaned)
+    broken = []
+    word = ""
+    for l in cleaned:
+        print(l)
+        if l.isalnum():
+            word += l
+        else:
+            if word.isalnum():
+                broken.append(word)
+            word = ""
+
+    normalized_title = ""
+    print(broken)
+    for w in broken:
+        copy = w.lower()
+        if copy not in COMMON_TAGS:
+            if normalized_title != "":
+                normalized_title += " "
+            normalized_title += w
+
+    return normalized_title
+
+
+def clean_artist(artist):
+    cleaned = re.sub(r"[\/]", "&", artist)
     cleaned = re.sub(r'[\x00-\x1f\\/:*?"<>|]', "", cleaned)
-    return cleaned.strip(' .')
+    return cleaned.strip(" .")
+
 
 class Metadata:
-    def __init__(self, song ):
+    def __init__(self, song):
         self.artist = song.get("artist")[0]
         self.title = song.get("title")[0]
         self.album = song.get("album")[0]
-        self.all_tags = [song.get("album"),song.get("title"),song.get("artist")]
+        self.all_tags = [song.get("album"), song.get("title"), song.get("artist")]
         # self.year = song.year
-        
+
 
 class Song:
-    def __init__(self,file):
+    def __init__(self, file):
         self.path = file
         self.name = file.stem
-        self.extension= file.suffix.lower()
-        self.size = file.stat().st_size /  (1024 * 1024)
+        self.extension = file.suffix.lower()
+        self.size = file.stat().st_size / (1024 * 1024)
         self.length = None
         self.status = "ok"
 
@@ -47,39 +71,37 @@ class Song:
     def __load_audio(self, file):
         audio = File(file)
         self.status = "ok"
-        self.length =  int(audio.info.length) / 60
+        self.length = int(audio.info.length) / 60
 
-    def __get_tags(self,file):
+    def __get_tags(self, file):
         try:
             metadata = EasyID3(file)
-            if metadata :
+            if metadata:
                 self.metadata = Metadata(metadata)
                 if None in self.metadata.all_tags:
                     self.tag_status = "partial"
                 else:
                     self.tag_status = "complete"
 
-        except: 
+        except:
             self.tag_status = None
             self.metadata = None
-    def  rename(self):
-        dest_folder = Path.cwd()/"cleaned"
+
+    def rename(self, dest_folder):
         title = self.metadata.title
         artist = self.metadata.artist
-        new_name = f"{artist} - {title}{self.extension}"
+        artist = clean_artist(artist)
+        title = clean_title(title, artist)
         attempts = 0
         try:
-            os.rename(self.path,  f"{dest_folder/new_name }")
+            print(title)
+            new_name = f"{artist} - {title}{self.extension}"
+            os.rename(self.path, f"{dest_folder/new_name}")
             return new_name
         except FileExistsError:
             attempts += 1
             new_name = f"{self.metadata.title} - {self.metadata.title} ({attempts}){self.extension} "
-            os.rename(self.path,f"{dest_folder/new_name}" )
+            os.rename(self.path, f"{dest_folder/new_name}")
             return self.name
-        except :
-            new_name = f"{clean_artist(artist)} - {clean_title(title)}{self.extension}"
-            os.rename(self.path,  f"{dest_folder/new_name }")
-        return new_name
-                
-
-
+        except Exception as error:
+            print(f"cause ==> {error}")

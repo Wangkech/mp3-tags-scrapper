@@ -2,6 +2,7 @@ from pathlib import Path
 
 path = Path.cwd()
 
+
 def print_tags(song):
     print("=== Tags ====")
     try:
@@ -15,7 +16,6 @@ def print_tags(song):
     print()
 
 
-
 def print_folder_details(folder):
     print(f"folder path: {folder.path}")
     print(f"folder name: {folder.name}")
@@ -25,6 +25,7 @@ def print_folder_details(folder):
     print(f"no tags: { len(folder.no_tags)}")
     print()
 
+
 def print_song_details(song):
     print(f" { song.name }")
     print(f"Extension: {song.extension}")
@@ -33,11 +34,13 @@ def print_song_details(song):
     print(f"status: {song.status}")
     # print_tags(song)
 
+
 def write_folder_details(folder, report):
     report.write(f"folder path: {folder.path}\n")
     report.write(f"folder name: {folder.name}\n")
     report.write(f"songs found: { len(folder.songs)}\n")
     report.write("\n")
+
 
 def write_tags(song, report):
     try:
@@ -50,27 +53,32 @@ def write_tags(song, report):
         report.write("This song has no metadata\n")
     report.write("\n")
 
+
 def write_song_details(song, report):
-    report.write(f"{ song.name }\n")
-    report.write(f"Extension: {song.extension} \n")
-    report.write(f"size: {song.size:.2f}MB\n")
-    report.write(f"length: {song.length}\n")
-    report.write(f"status: {song.status}\n")
-    report.write("=== Tags ====\n")
+    try:
+        report.write(f"{ song.name }\n")
+        report.write(f"Extension: {song.extension} \n")
+        report.write(f"size: {song.size:.2f}MB\n")
+        report.write(f"length: {song.length}\n")
+        report.write(f"status: {song.status}\n")
+        report.write("=== Tags ====\n")
+    except UnicodeEncodeError:
+        report.write(f"could encode these characters")
     # write_tags(song)
+
 
 def generate_report(folder):
     with open("report.txt", "w") as report:
-        write_folder_details(folder,report)
+        write_folder_details(folder, report)
         songs = folder.songs
         for song in songs:
-            write_song_details(song,report)
+            write_song_details(song, report)
             write_tags(song, report)
-        
+
+
 def print_report(folder):
     print_folder_details(folder)
     songs = folder.songs
     for song in songs:
         print_song_details(song)
         print_tags(song)
-   
