@@ -16,13 +16,26 @@ def clean_title(title, artist):
     cleaned = re.sub(f"{artist}", "", cleaned)
     broken = []
     word = ""
-    for l in cleaned:
+    for num, l in enumerate(cleaned):
         print(l)
-        if l.isalnum():
+        try:
+            next = cleaned[num + 1]
+            if l.isalnum():
+                if next.isalnum():
+                    word += l
+                else:
+                    word += l
+                    broken.append(word)
+                    word = ""
+
+            else:
+                if word.isalnum():
+                    broken.append(word)
+                    word = ""
+
+        except:
             word += l
-        else:
-            if word.isalnum():
-                broken.append(word)
+            broken.append(word)
             word = ""
 
     normalized_title = ""
@@ -34,7 +47,7 @@ def clean_title(title, artist):
                 normalized_title += " "
             normalized_title += w
 
-    return normalized_title
+    return normalized_title.strip("()").strip(" ")
 
 
 def clean_artist(artist):

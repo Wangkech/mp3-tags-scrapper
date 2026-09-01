@@ -1,6 +1,8 @@
 from MusicFile import Song
 from pathlib import Path
 
+renamed_report = Path.cwd() / "success_report.txt"
+
 
 class Folder:
     def __init__(self, path):

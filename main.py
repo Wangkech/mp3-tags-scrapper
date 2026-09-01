@@ -8,7 +8,7 @@ from folder import Folder
 def main():
     start_time = time.time()
     dir = Path.cwd() / "music/test"
-    out_dir = Path.cwd() / "music"
+    out_dir = Path.cwd() / "music" / "cleaned"
     out_dir.mkdir(exist_ok=True)
 
     print(dir.name)
