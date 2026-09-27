@@ -62,9 +62,9 @@ with this tool you should be able to:
 
     3. tags/metadata
         * **Responsibility**   
+            * only scoped to deal with tags. 
             * extract it's tags
             * edit tags
-            * reports to the MusicFile/song object
 
 * main.py will be the coordinator. 
 
@@ -95,5 +95,17 @@ Lets start from the smallest object as we progress upwards.
     - it now now initiates the renaming of the songs with complete tags.  
 
 4. report.py 
-    - generates a written report on the findings of the folder and documents what files we renamed and what we they renamed to. "from ====> to"
-    - write how
+    - report generates an off-command-line overview statuses of the folder and files. 
+    - its save it into a .txt and we we can later view details such as, how many songs have full metadata, how many have partial data, how many are irrecognisable and the full details of a every song right under.
+
+# WHAT ARE WE YET TO ACHIEVE?
+1. ## MusicBrainz Integration
+    - With musicBrainz, we want to be able take the loose data and do a lookup query to get the right metadata and edit the tags and the file name.    
+     
+    ### Integration Milestones:   
+    1. EXTRACTION    
+        - Extract Meaningful Data from the song   
+    2. QUERY
+        - take the extracted info to do an online lookup for the song metadata
+    3. 
+
