@@ -1,4 +1,5 @@
 music/**
+music/cleaned/**
 .venv
 .vscode
 __pycache__
