@@ -1,1210 +1,664 @@
 
-folder path: C:\Users\Wangkech\Documents\Projects\mp3-tags-scrapper\music\test
-folder name: test
-songs found: 121
-complete tags: 117
+folder path: /home/wangkech/Projects/mp3-tags-scrapper/music
+folder name: music
+songs found: 67
+complete tags: 60
 partial tags: 0
-no tags: 4
+no tags: 7
 
 
-Beyoncé & Major Lazer & Shatta Wale - ALREADY
+Rihanna, Drake - Work
 Extension: .mp3
-size: 3.55MB
-length: 3.7
+size: 5.96MB
+length: 3.65
 status: ok
 === Tags ====
-Title: ALREADY
-Artist: Beyoncé / Major Lazer / Shatta Wale
-Album: The Lion King: The Gift
+Title: Work
+Artist: Rihanna, Drake
+Album: ANTI (Deluxe)
 
-Cardi B & Bruno Mars - Please Me
+Ayra Starr - Tornado
 Extension: .mp3
-size: 7.92MB
-length: 3.3333333333333335
+size: 2.64MB
+length: 2.95
 status: ok
 === Tags ====
-Title: Please Me
-Artist: Cardi B / Bruno Mars
-Album: Please Me
+Title: Tornado
+Artist: Ayra Starr
+Album: Unknown Album
 
-Chris Brown & DaniLeigh - Nose Dive feat DaniLeigh )
+Joshua Baraka - You
 Extension: .mp3
-size: 3.32MB
-length: 3.3
-status: ok
-=== Tags ====
-Title: Nose Dive (feat. DaniLeigh)
-Artist: Chris Brown / DaniLeigh
-Album: Indigo (Extended)
-
-Chris Brown & DaVido & DaVido - Lower Body feat Davido )
-Extension: .mp3
-size: 3.10MB
-length: 3.05
-status: ok
-=== Tags ====
-Title: Lower Body (feat. Davido)
-Artist: Chris Brown / DaVido / DaVido
-Album: Indigo (Extended)
-
-Chris Brown & Drake - No Guidance feat Drake )
-Extension: .mp3
-size: 4.28MB
-length: 4.333333333333333
-status: ok
-=== Tags ====
-Title: No Guidance (feat. Drake)
-Artist: Chris Brown / Drake
-Album: Indigo (Extended)
-
-Chris Brown & Gunna - Heat feat Gunna )
-Extension: .mp3
-size: 3.85MB
-length: 3.8666666666666667
-status: ok
-=== Tags ====
-Title: Heat (feat. Gunna)
-Artist: Chris Brown / Gunna
-Album: Indigo (Extended)
-
-Chris Brown & H.E.R. & H.E.R - Come Together feat H E R )
-Extension: .mp3
-size: 3.87MB
-length: 3.9
-status: ok
-=== Tags ====
-Title: Come Together (feat. H.E.R.)
-Artist: Chris Brown / H.E.R. / H.E.R.
-Album: Indigo (Extended)
-
-Chris Brown & INK & Justin Bieber - Don t Check On Me feat Justin Bieber Ink )
-Extension: .mp3
-size: 3.42MB
-length: 3.4
-status: ok
-=== Tags ====
-Title: Don't Check On Me (feat. Justin Bieber & Ink)
-Artist: Chris Brown / INK / Justin Bieber
-Album: Indigo (Extended)
-
-Chris Brown & Juvenile & Juicy J - Emerald Burgundy feat Juvenile Juicy J )
-Extension: .mp3
-size: 6.40MB
-length: 6.65
-status: ok
-=== Tags ====
-Title: Emerald / Burgundy (feat. Juvenile & Juicy J)
-Artist: Chris Brown / Juvenile / Juicy J
-Album: Indigo (Extended)
-
-Chris Brown & Lil Jon - Temporary Lover feat Lil Jon )
-Extension: .mp3
-size: 3.31MB
-length: 3.283333333333333
-status: ok
-=== Tags ====
-Title: Temporary Lover (feat. Lil Jon)
-Artist: Chris Brown / Lil Jon
-Album: Indigo (Extended)
-
-Chris Brown & Lil Wayne & Joyner Lucas - Need A Stack feat Lil Wayne Joyner Lucas )
-Extension: .mp3
-size: 5.33MB
-length: 5.466666666666667
-status: ok
-=== Tags ====
-Title: Need A Stack (feat. Lil Wayne & Joyner Lucas)
-Artist: Chris Brown / Lil Wayne / Joyner Lucas
-Album: Indigo (Extended)
-
-Chris Brown & Nicki Minaj & G-Eazy - Wobble Up feat Nicki Minaj G Eazy )
-Extension: .mp3
-size: 3.68MB
-length: 3.683333333333333
-status: ok
-=== Tags ====
-Title: Wobble Up (feat. Nicki Minaj & G-Eazy)
-Artist: Chris Brown / Nicki Minaj / G-Eazy
-Album: Indigo (Extended)
-
-Chris Brown & Sage The Gemini & Rich The Kid & Yella Beezy - Outy When I Drive Blamed feat Rich The Kid Yella Beezy Sage The Gemini )
-Extension: .mp3
-size: 6.27MB
-length: 6.5
-status: ok
-=== Tags ====
-Title: Outy When I Drive/Blamed (feat. Rich The Kid, Yella Beezy & Sage The Gemini)
-Artist: Chris Brown / Sage The Gemini / Rich The Kid / Yella Beezy
-Album: Indigo (Extended)
-
-Chris Brown & Tank - Early 2K feat Tank )
-Extension: .mp3
-size: 3.76MB
-length: 3.7666666666666666
-status: ok
-=== Tags ====
-Title: Early 2K (feat. Tank)
-Artist: Chris Brown / Tank
-Album: Indigo (Extended)
-
-Chris Brown & Tory Lanez & Tory Lanez - Lurkin feat Tory Lanez )
-Extension: .mp3
-size: 2.88MB
-length: 2.816666666666667
-status: ok
-=== Tags ====
-Title: Lurkin' (feat. Tory Lanez)
-Artist: Chris Brown / Tory Lanez / Tory Lanez
-Album: Indigo (Extended)
-
-Chris Brown & Tory Lanez & Tory Lanez - Tell Me How You Feel feat Tory Lanez )
-Extension: .mp3
-size: 3.50MB
+size: 5.42MB
 length: 3.4833333333333334
 status: ok
 === Tags ====
-Title: Tell Me How You Feel (feat. Tory Lanez)
-Artist: Chris Brown / Tory Lanez / Tory Lanez
-Album: Indigo (Extended)
+Title: You
+Artist: Joshua Baraka
+Album: WATERSHED
 
-Chris Brown & Trey Songz - Sexy feat Trey Songz )
+Ayra Starr - Dance
 Extension: .mp3
-size: 4.24MB
-length: 4.3
-status: ok
-=== Tags ====
-Title: Sexy (feat. Trey Songz)
-Artist: Chris Brown / Trey Songz
-Album: Indigo (Extended)
-
-Chris Brown & Tyga - All I Want feat Tyga )
-Extension: .mp3
-size: 3.56MB
-length: 3.55
-status: ok
-=== Tags ====
-Title: All I Want (feat. Tyga)
-Artist: Chris Brown / Tyga
-Album: Indigo (Extended)
-
-Chris Brown - All On Me
-Extension: .mp3
-size: 3.82MB
-length: 3.85
-status: ok
-=== Tags ====
-Title: All On Me
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Back To Love
-Extension: .mp3
-size: 3.66MB
-length: 3.6666666666666665
-status: ok
-=== Tags ====
-Title: Back To Love
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - BP No Judgement
-Extension: .mp3
-size: 6.12MB
-length: 6.333333333333333
-status: ok
-=== Tags ====
-Title: BP / No Judgement
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Cheetah
-Extension: .mp3
-size: 2.67MB
-length: 2.5833333333333335
-status: ok
-=== Tags ====
-Title: Cheetah
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Dear God
-Extension: .mp3
-size: 4.00MB
-length: 4.033333333333333
-status: ok
-=== Tags ====
-Title: Dear God
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Flashbacks
-Extension: .mp3
-size: 2.93MB
-length: 2.8666666666666667
-status: ok
-=== Tags ====
-Title: Flashbacks
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Girl Of My Dreams
-Extension: .mp3
-size: 3.38MB
-length: 3.3666666666666667
-status: ok
-=== Tags ====
-Title: Girl Of My Dreams
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Going At It
-Extension: .mp3
-size: 2.86MB
-length: 2.8
-status: ok
-=== Tags ====
-Title: Going At It
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Indigo
-Extension: .mp3
-size: 3.24MB
-length: 3.2
-status: ok
-=== Tags ====
-Title: Indigo
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Juice
-Extension: .mp3
-size: 3.43MB
-length: 3.4166666666666665
-status: ok
-=== Tags ====
-Title: Juice
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Natural Disaster Aura
-Extension: .mp3
-size: 4.92MB
-length: 5.05
-status: ok
-=== Tags ====
-Title: Natural Disaster / Aura
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Overtime
-Extension: .mp3
-size: 4.49MB
-length: 4.583333333333333
-status: ok
-=== Tags ====
-Title: Overtime
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Part Of The Plan
-Extension: .mp3
-size: 3.09MB
-length: 3.05
-status: ok
-=== Tags ====
-Title: Part Of The Plan
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Play Catch Up
-Extension: .mp3
-size: 3.05MB
-length: 3.0
-status: ok
-=== Tags ====
-Title: Play Catch Up
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Problem With You
-Extension: .mp3
-size: 2.35MB
-length: 2.2333333333333334
-status: ok
-=== Tags ====
-Title: Problem With You
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Red
-Extension: .mp3
-size: 3.62MB
-length: 3.6333333333333333
-status: ok
-=== Tags ====
-Title: Red
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Side Nigga
-Extension: .mp3
-size: 3.89MB
-length: 3.9166666666666665
-status: ok
-=== Tags ====
-Title: Side Nigga
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Sorry Enough
-Extension: .mp3
-size: 4.35MB
-length: 4.416666666666667
-status: ok
-=== Tags ====
-Title: Sorry Enough
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Take A Risk
-Extension: .mp3
-size: 3.54MB
-length: 3.533333333333333
-status: ok
-=== Tags ====
-Title: Take A Risk
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Technology
-Extension: .mp3
-size: 3.48MB
-length: 3.466666666666667
-status: ok
-=== Tags ====
-Title: Technology
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Throw It Back
-Extension: .mp3
-size: 3.15MB
-length: 3.1
-status: ok
-=== Tags ====
-Title: Throw It Back
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Troubled Waters
-Extension: .mp3
-size: 3.24MB
-length: 3.216666666666667
-status: ok
-=== Tags ====
-Title: Troubled Waters
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Trust Issues Act In
-Extension: .mp3
-size: 4.86MB
-length: 4.966666666666667
-status: ok
-=== Tags ====
-Title: Trust Issues / Act In
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Undecided
-Extension: .mp3
-size: 3.12MB
-length: 3.0833333333333335
-status: ok
-=== Tags ====
-Title: Undecided
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - Under The Influence
-Extension: .mp3
-size: 3.11MB
-length: 3.066666666666667
-status: ok
-=== Tags ====
-Title: Under The Influence
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Chris Brown - You Like That
-Extension: .mp3
-size: 3.12MB
-length: 3.066666666666667
-status: ok
-=== Tags ====
-Title: You Like That
-Artist: Chris Brown
-Album: Indigo (Extended)
-
-Coco Jones - Here We Go Uh Oh )
-Extension: .mp3
-size: 3.58MB
-length: 3.6
-status: ok
-=== Tags ====
-Title: Here We Go (Uh Oh)
-Artist: Coco Jones
-Album: Here We Go (Uh Oh) - Single
-
-Doja Cat & SZA - Kiss Me More feat SZA )
-Extension: .mp3
-size: 3.54MB
-length: 3.466666666666667
-status: ok
-=== Tags ====
-Title: Kiss Me More (feat. SZA)
-Artist: Doja Cat / SZA
-Album: Planet Her
-
-Ella Mai - DFMU
-Extension: .mp3
-size: 3.23MB
-length: 3.283333333333333
-status: ok
-=== Tags ====
-Title: DFMU
-Artist: Ella Mai
-Album: Heart On My Sleeve
-
-Ella Mai - How feat Roddy Ricch )
-Extension: .mp3
-size: 3.55MB
-length: 3.6333333333333333
-status: ok
-=== Tags ====
-Title: How (feat. Roddy Ricch)
-Artist: Ella Mai
-Album: Heart On My Sleeve
-
-Ella Mai - This Is
-Extension: .mp3
-size: 3.37MB
-length: 3.433333333333333
-status: ok
-=== Tags ====
-Title: This Is
-Artist: Ella Mai
-Album: Heart On My Sleeve
-
-ella_mai_trip_audio_aac_68911
-Extension: .mp3
-size: 3.37MB
-length: 3.6333333333333333
-status: ok
-This song has no metadata
-
-
-favicon
-Extension: .mp3
-size: 0.02MB
-length: None
-status: error
-This song has no metadata
-
-
-It's Plenty - Burna Boy
-Extension: .mp3
-size: 3.01MB
-length: 3.283333333333333
-status: ok
-This song has no metadata
-
-
-Justin Bieber & BEAM - Love You Different
-Extension: .mp3
-size: 3.09MB
-length: 3.1
-status: ok
-=== Tags ====
-Title: Love You Different
-Artist: Justin Bieber / BEAM
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Benny Blanco - Lonely
-Extension: .mp3
-size: 2.51MB
-length: 2.4833333333333334
-status: ok
-=== Tags ====
-Title: Lonely
-Artist: Justin Bieber / Benny Blanco
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Burna Boy - Loved By You
-Extension: .mp3
-size: 2.67MB
-length: 2.65
-status: ok
-=== Tags ====
-Title: Loved By You
-Artist: Justin Bieber / Burna Boy
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Chance the Rapper - Holy
-Extension: .mp3
-size: 3.48MB
-length: 3.533333333333333
-status: ok
-=== Tags ====
-Title: Holy
-Artist: Justin Bieber / Chance the Rapper
-Album: Justice (The Complete Edition)
-
-Justin Bieber & DaBaby - Know No Better
-Extension: .mp3
-size: 2.71MB
-length: 2.683333333333333
-status: ok
-=== Tags ====
-Title: Know No Better
-Artist: Justin Bieber / DaBaby
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Daniel Caesar & GIVĒON - Peaches
-Extension: .mp3
-size: 3.26MB
-length: 3.3
-status: ok
-=== Tags ====
-Title: Peaches
-Artist: Justin Bieber / Daniel Caesar / GIVĒON
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Dominic Fike - Die For You
-Extension: .mp3
-size: 3.27MB
-length: 3.3
-status: ok
-=== Tags ====
-Title: Die For You
-Artist: Justin Bieber / Dominic Fike
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Jaden - I Can t Be Myself
-Extension: .mp3
-size: 3.19MB
-length: 3.216666666666667
-status: ok
-=== Tags ====
-Title: I Can't Be Myself
-Artist: Justin Bieber / Jaden
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Khalid - As I Am
-Extension: .mp3
-size: 2.90MB
-length: 2.9
-status: ok
-=== Tags ====
-Title: As I Am
-Artist: Justin Bieber / Khalid
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Lil Uzi Vert - There She Go
-Extension: .mp3
-size: 3.53MB
-length: 3.5833333333333335
-status: ok
-=== Tags ====
-Title: There She Go
-Artist: Justin Bieber / Lil Uzi Vert
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Poo Bear - Angels Speak
-Extension: .mp3
-size: 3.77MB
-length: 3.85
-status: ok
-=== Tags ====
-Title: Angels Speak
-Artist: Justin Bieber / Poo Bear
-Album: Justice (The Complete Edition)
-
-Justin Bieber & Quavo - Wish You Would
-Extension: .mp3
-size: 3.93MB
-length: 4.016666666666667
-status: ok
-=== Tags ====
-Title: Wish You Would
-Artist: Justin Bieber / Quavo
-Album: Justice (The Complete Edition)
-
-Justin Bieber & The Kid Laroi - Unstable
-Extension: .mp3
-size: 2.65MB
+size: 2.59MB
 length: 2.6333333333333333
 status: ok
 === Tags ====
-Title: Unstable
-Artist: Justin Bieber / The Kid Laroi
-Album: Justice (The Complete Edition)
+Title: Dance
+Artist: Ayra Starr
+Album: Unknown Album
 
-Justin Bieber & Tori Kelly - Name
+Ayra Starr - Letter To God
 Extension: .mp3
-size: 2.67MB
-length: 2.65
-status: ok
-=== Tags ====
-Title: Name
-Artist: Justin Bieber / Tori Kelly
-Album: Justice (The Complete Edition)
-
-Justin Bieber & TroyBoi - Red Eye
-Extension: .mp3
-size: 3.10MB
-length: 3.1166666666666667
-status: ok
-=== Tags ====
-Title: Red Eye
-Artist: Justin Bieber / TroyBoi
-Album: Justice (The Complete Edition)
-
-Justin Bieber - 2 Much
-Extension: .mp3
-size: 2.57MB
-length: 2.533333333333333
-status: ok
-=== Tags ====
-Title: 2 Much
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
-
-Justin Bieber - Anyone
-Extension: .mp3
-size: 3.15MB
-length: 3.1666666666666665
-status: ok
-=== Tags ====
-Title: Anyone
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
-
-Justin Bieber - Deserve You
-Extension: .mp3
-size: 3.10MB
-length: 3.1166666666666667
-status: ok
-=== Tags ====
-Title: Deserve You
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
-
-Justin Bieber - Ghost
-Extension: .mp3
-size: 2.57MB
-length: 2.55
-status: ok
-=== Tags ====
-Title: Ghost
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
-
-Justin Bieber - Hailey
-Extension: .mp3
-size: 3.19MB
-length: 3.216666666666667
-status: ok
-=== Tags ====
-Title: Hailey
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
-
-Justin Bieber - Hold On
-Extension: .mp3
-size: 2.84MB
-length: 2.8333333333333335
-status: ok
-=== Tags ====
-Title: Hold On
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
-
-Justin Bieber - Lifetime
-Extension: .mp3
-size: 3.40MB
+size: 3.27MB
 length: 3.45
 status: ok
 === Tags ====
-Title: Lifetime
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
+Title: Letter To God
+Artist: Ayra Starr
+Album: Unknown Album
 
-Justin Bieber - MLK Interlude
+Ayra Starr - Dangerous
 Extension: .mp3
-size: 1.82MB
-length: 1.7333333333333334
+size: 1.96MB
+length: 2.1
 status: ok
 === Tags ====
-Title: MLK Interlude
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
+Title: Dangerous
+Artist: Ayra Starr
+Album: Unknown Album
 
-Justin Bieber - Off My Face
+Ayra Starr - Gimme Dat feat Wizkid
 Extension: .mp3
-size: 2.62MB
-length: 2.6
+size: 4.08MB
+length: 4.35
 status: ok
 === Tags ====
-Title: Off My Face
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
+Title: Gimme Dat (feat. Wizkid)
+Artist: Ayra Starr
+Album: Unknown Album
 
-Justin Bieber - Somebody
+Puri, Jhorrmountain, Adje - Coño
 Extension: .mp3
-size: 2.98MB
-length: 2.9833333333333334
+size: 4.43MB
+length: 2.283333333333333
 status: ok
 === Tags ====
-Title: Somebody
-Artist: Justin Bieber
-Album: Justice (The Complete Edition)
+Title: Coño
+Artist: Puri, Jhorrmountain, Adje
+Album: Coño
 
-Lil Dicky & Chris Brown - Freaky Friday feat Chris Brown )
+Joshua Baraka - YoYo
 Extension: .mp3
-size: 3.53MB
-length: 3.6
+size: 3.15MB
+length: 3.25
 status: ok
 === Tags ====
-Title: Freaky Friday (feat. Chris Brown)
-Artist: Lil Dicky / Chris Brown
-Album: Freaky Friday (feat. Chris Brown)
+Title: YoYo
+Artist: Joshua Baraka
+Album: Unknown Album
 
-Omah lay - understand
+Ayra Starr - Hot Body feat Danny Ocean Remix
 Extension: .mp3
-size: 2.76MB
-length: 2.9
+size: 2.86MB
+length: 3.0166666666666666
 status: ok
 === Tags ====
-Title: understand
-Artist: Omah lay
-Album: understand
+Title: Hot Body (feat. Danny Ocean) - Remix
+Artist: Ayra Starr
+Album: Unknown Album
 
-Post Malone – I Fall Apart _
+Drake - Find Your Love
 Extension: .mp3
-size: 8.54MB
-length: 3.716666666666667
+size: 5.51MB
+length: 3.4833333333333334
+status: ok
+=== Tags ====
+Title: Find Your Love
+Artist: Drake
+Album: Thank Me Later
+
+Beenie Man - Who Am I
+Extension: .mp3
+size: 5.79MB
+length: 3.2666666666666666
+status: ok
+=== Tags ====
+Title: Who Am I
+Artist: Beenie Man
+Album: Many Moods Of Moses
+
+Ja Rule, Ashanti - Always On Time
+Extension: .mp3
+size: 7.17MB
+length: 4.083333333333333
+status: ok
+=== Tags ====
+Title: Always On Time
+Artist: Ja Rule, Ashanti
+Album: Pain Is Love
+
+FAVE - Intentions (Official Visualizer)
+Extension: .mp3
+size: 5.99MB
+length: 2.5833333333333335
 status: ok
 This song has no metadata
 
 
-Ruger & BNXN - Bae Bae
+Asne Abate - Male(ማሌ) - New Ethiopian Music 2017(Official Video) - Minew Shewa Tube (youtube)
 Extension: .mp3
-size: 2.56MB
-length: 2.566666666666667
+size: 8.24MB
+length: 4.5
+status: ok
+This song has no metadata
+
+
+Chaka Khan - Ain t Nobody
+Extension: .mp3
+size: 8.13MB
+length: 4.666666666666667
 status: ok
 === Tags ====
-Title: Bae Bae
-Artist: Ruger / BNXN
-Album: RnB
+Title: Ain't Nobody
+Artist: Chaka Khan
+Album: Epiphany: The Best of Chaka Khan, Vol. 1
 
-Ruger & BNXN - Calculate Love
+Ayra Starr - Misunderstood
 Extension: .mp3
-size: 2.97MB
+size: 2.70MB
 length: 3.0166666666666666
 status: ok
 === Tags ====
-Title: Calculate Love
-Artist: Ruger / BNXN
-Album: RnB
+Title: Misunderstood
+Artist: Ayra Starr
+Album: Unknown Album
 
-Ruger & BNXN - Ilashe
+Ayra Starr - Ms Paper feat Theodora
 Extension: .mp3
-size: 2.66MB
-length: 2.6666666666666665
+size: 2.87MB
+length: 2.8
 status: ok
 === Tags ====
-Title: Ilashe
-Artist: Ruger / BNXN
-Album: RnB
+Title: Ms. Paper (feat. Theodora)
+Artist: Ayra Starr
+Album: Unknown Album
 
-Ruger & BNXN - Party Monster
+The Second Voice - LET ME BE
 Extension: .mp3
-size: 2.88MB
-length: 2.9166666666666665
+size: 7.49MB
+length: 3.15
 status: ok
 === Tags ====
-Title: Party Monster
-Artist: Ruger / BNXN
-Album: RnB
+Title: LET ME BE
+Artist: The Second Voice
+Album: LET ME BE
 
-Ruger & BNXN - POE
+Beyoncé - Crazy In Love No Rap Version
 Extension: .mp3
-size: 3.35MB
-length: 3.433333333333333
+size: 6.33MB
+length: 3.716666666666667
 status: ok
 === Tags ====
-Title: POE
-Artist: Ruger / BNXN
-Album: RnB
+Title: Crazy In Love - No Rap Version
+Artist: Beyoncé
+Album: Crazy In Love
 
-Ruger & BNXN - Romeo Must Die RMD )
+Vybz Kartel - Fever
 Extension: .mp3
-size: 2.64MB
-length: 2.6666666666666665
+size: 6.10MB
+length: 3.4
 status: ok
 === Tags ====
-Title: Romeo Must Die (RMD)
-Artist: Ruger / BNXN
-Album: RnB
+Title: Fever
+Artist: Vybz Kartel
+Album: King Of The Dancehall
 
-Ruger & Govana - Likely
+MOLIY&Tyla - Body Go with Tyla
 Extension: .mp3
-size: 3.84MB
-length: 3.933333333333333
-status: ok
-=== Tags ====
-Title: Likely
-Artist: Ruger / Govana
-Album: RU The World
-
-Ruger & Jugglerz - Bun Bun
-Extension: .mp3
-size: 3.03MB
-length: 3.033333333333333
-status: ok
-=== Tags ====
-Title: Bun Bun
-Artist: Ruger / Jugglerz
-Album: RU The World
-
-Ruger & Jugglerz - Dear Ex
-Extension: .mp3
-size: 2.75MB
+size: 6.34MB
 length: 2.75
 status: ok
 === Tags ====
-Title: Dear Ex
-Artist: Ruger / Jugglerz
-Album: RU The World
+Title: Body Go (with Tyla)
+Artist: MOLIY/Tyla
+Album: Body Go (with Tyla)
 
-Ruger & Projexx - Island Girl
+Wayne Wonder - No Letting Go
 Extension: .mp3
-size: 3.38MB
-length: 3.433333333333333
-status: ok
-=== Tags ====
-Title: Island Girl
-Artist: Ruger / Projexx
-Album: RU The World
-
-Ruger & Sauti Sol - All My Days
-Extension: .mp3
-size: 3.73MB
-length: 3.816666666666667
-status: ok
-=== Tags ====
-Title: All My Days
-Artist: Ruger / Sauti Sol
-Album: RU The World
-
-Ruger & Stefflon Don - Addiction
-Extension: .mp3
-size: 3.11MB
-length: 3.1333333333333333
-status: ok
-=== Tags ====
-Title: Addiction
-Artist: Ruger / Stefflon Don
-Album: RU The World
-
-Ruger - Ashana
-Extension: .mp3
-size: 3.21MB
-length: 3.25
-status: ok
-=== Tags ====
-Title: Ashana
-Artist: Ruger
-Album: RU The World
-
-Ruger - Asiwaju
-Extension: .mp3
-size: 3.54MB
-length: 3.6
-status: ok
-=== Tags ====
-Title: Asiwaju
-Artist: Ruger
-Album: RU The World
-
-Ruger - Blue
-Extension: .mp3
-size: 3.34MB
-length: 3.3833333333333333
-status: ok
-=== Tags ====
-Title: Blue
-Artist: Ruger
-Album: RU The World
-
-Ruger - BoyToy
-Extension: .mp3
-size: 3.11MB
-length: 3.1333333333333333
-status: ok
-=== Tags ====
-Title: BoyToy
-Artist: Ruger
-Album: RU The World
-
-Ruger - Holy Ground
-Extension: .mp3
-size: 3.48MB
-length: 3.533333333333333
-status: ok
-=== Tags ====
-Title: Holy Ground
-Artist: Ruger
-Album: RU The World
-
-Ruger - I Want Peace
-Extension: .mp3
-size: 2.67MB
-length: 2.65
-status: ok
-=== Tags ====
-Title: I Want Peace
-Artist: Ruger
-Album: RU The World
-
-Ruger - Jonzing Boy
-Extension: .mp3
-size: 3.07MB
-length: 3.0833333333333335
-status: ok
-=== Tags ====
-Title: Jonzing Boy
-Artist: Ruger
-Album: RU The World
-
-Ruger - Kristy
-Extension: .mp3
-size: 4.20MB
-length: 4.333333333333333
-status: ok
-=== Tags ====
-Title: Kristy
-Artist: Ruger
-Album: RU The World
-
-Ruger - Nine
-Extension: .mp3
-size: 3.75MB
-length: 3.8333333333333335
-status: ok
-=== Tags ====
-Title: Nine
-Artist: Ruger
-Album: RU The World
-
-Ruger - Tour
-Extension: .mp3
-size: 2.87MB
-length: 2.8666666666666667
-status: ok
-=== Tags ====
-Title: Tour
-Artist: Ruger
-Album: RU The World
-
-Sarz & Asake & Gunna - Happiness feat Asake Gunna )
-Extension: .mp3
-size: 2.98MB
-length: 2.9
-status: ok
-=== Tags ====
-Title: Happiness (feat. Asake & Gunna)
-Artist: Sarz / Asake / Gunna
-Album: Happiness (feat. Asake & Gunna)
-
-SZA - Hit Different feat Ty Dolla ign )
-Extension: .mp3
-size: 3.29MB
+size: 4.95MB
 length: 3.3666666666666667
 status: ok
 === Tags ====
-Title: Hit Different (feat. Ty Dolla $ign)
-Artist: SZA
-Album: Hit Different (feat. Ty Dolla $ign) - Single
+Title: No Letting Go
+Artist: Wayne Wonder
+Album: No Holding Back
 
-The Weeknd & Lil Wayne - I Heard You re Married
+Chaka Demus & Pliers - Murder She Wrote
 Extension: .mp3
-size: 4.19MB
-length: 4.383333333333334
+size: 7.23MB
+length: 4.083333333333333
 status: ok
 === Tags ====
-Title: I Heard You’re Married
-Artist: The Weeknd / Lil Wayne
-Album: Dawn FM
+Title: Murder She Wrote
+Artist: Chaka Demus & Pliers
+Album: Tease Me
 
-The Weeknd & Tyler, The Creator - Here We Go Again
+DJ SPARK VEVO - 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW MIX 2025 l AMAPIANO 2025 l DJ SPARK l CASHFLOW
 Extension: .mp3
-size: 3.36MB
-length: 3.4833333333333334
+size: 66.80MB
+length: 68.73333333333333
 status: ok
 === Tags ====
-Title: Here We Go… Again
-Artist: The Weeknd / Tyler, The Creator
-Album: Dawn FM
+Title: 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW VIDEO MIX 2025 l AMAPIANO 2025 l DJ SPARK l #CASHFLOW
+Artist: DJ SPARK VEVO
+Album: 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW VIDEO MIX 2025 l AMAPIANO 2025 l DJ SPARK l #CASHFLOW
 
-The Weeknd - A Tale By Quincy
+Ayra Starr - Pressure feat Leon Thomas
 Extension: .mp3
-size: 1.63MB
-length: 1.6
+size: 2.23MB
+length: 2.4
 status: ok
 === Tags ====
-Title: A Tale By Quincy
-Artist: The Weeknd
-Album: Dawn FM
+Title: Pressure (feat. Leon Thomas)
+Artist: Ayra Starr
+Album: Unknown Album
 
-The Weeknd - Best Friends
+Wayne Wonder - Bounce Along
 Extension: .mp3
-size: 2.65MB
-length: 2.716666666666667
+size: 8.32MB
+length: 4.833333333333333
 status: ok
 === Tags ====
-Title: Best Friends
-Artist: The Weeknd
-Album: Dawn FM
+Title: Bounce Along
+Artist: Wayne Wonder
+Album: No Holding Back
 
-The Weeknd - Dawn FM
+Alan Walker - Faded
 Extension: .mp3
-size: 1.62MB
-length: 1.6
-status: ok
-=== Tags ====
-Title: Dawn FM
-Artist: The Weeknd
-Album: Dawn FM
-
-The Weeknd - Don t Break My Heart
-Extension: .mp3
-size: 3.30MB
-length: 3.4166666666666665
-status: ok
-=== Tags ====
-Title: Don’t Break My Heart
-Artist: The Weeknd
-Album: Dawn FM
-
-The Weeknd - Every Angel is Terrifying
-Extension: .mp3
-size: 2.71MB
-length: 2.783333333333333
-status: ok
-=== Tags ====
-Title: Every Angel is Terrifying
-Artist: The Weeknd
-Album: Dawn FM
-
-The Weeknd - Gasoline
-Extension: .mp3
-size: 3.40MB
+size: 6.04MB
 length: 3.533333333333333
 status: ok
 === Tags ====
-Title: Gasoline
-Artist: The Weeknd
-Album: Dawn FM
+Title: Faded
+Artist: Alan Walker
+Album: Different World
 
-The Weeknd - How Do I Make You Love Me  
+Ayra Starr, ZAYN - Heaven Baby feat ZAYN
 Extension: .mp3
-size: 3.43MB
-length: 3.566666666666667
+size: 4.22MB
+length: 2.6333333333333333
 status: ok
 === Tags ====
-Title: How Do I Make You Love Me?
-Artist: The Weeknd
-Album: Dawn FM
+Title: Heaven Baby (feat. ZAYN)
+Artist: Ayra Starr, ZAYN
+Album: Starrgirl
 
-The Weeknd - Less Than Zero
+Joyous Celebration - My God Is Good Live
 Extension: .mp3
-size: 3.39MB
-length: 3.5166666666666666
+size: 8.24MB
+length: 4.683333333333334
 status: ok
 === Tags ====
-Title: Less Than Zero
-Artist: The Weeknd
-Album: Dawn FM
+Title: My God Is Good - Live
+Artist: Joyous Celebration
+Album: Joyous Celebration 13: Live At The Mosaeik Theatre JHB
 
-The Weeknd - m Phanto  t Regre  y b  Jim
+Labrinth - Forever From Euphoria Season 1 Soundtrack
 Extension: .mp3
-size: 2.90MB
-length: 2.9833333333333334
+size: 6.10MB
+length: 3.3666666666666667
 status: ok
 === Tags ====
-Title: Phantom Regret by Jim
-Artist: The Weeknd
-Album: Dawn FM
+Title: Forever (From "Euphoria: Season 1" Soundtrack)
+Artist: Labrinth
+Album: Euphoria (Original Score from the HBO Series)
 
-The Weeknd - Out of Time
+Chingy, Tyrese - Pullin Me Back
 Extension: .mp3
-size: 3.43MB
-length: 3.566666666666667
+size: 6.60MB
+length: 3.9
 status: ok
 === Tags ====
-Title: Out of Time
-Artist: The Weeknd
-Album: Dawn FM
+Title: Pullin' Me Back
+Artist: Chingy, Tyrese
+Album: Hoodstar (Deluxe Edition)
 
-The Weeknd - Sacrifice
+Rema - Calm Down
 Extension: .mp3
-size: 3.04MB
-length: 3.1333333333333333
+size: 8.44MB
+length: 3.65
 status: ok
 === Tags ====
-Title: Sacrifice
-Artist: The Weeknd
-Album: Dawn FM
+Title: Calm Down
+Artist: Rema
+Album: Calm Down
 
-The Weeknd - Starry Eyes
+Nana Nyadia – Habibi (Official Lyric Video) - Nana Nyadia (youtube)
 Extension: .mp3
-size: 2.41MB
-length: 2.466666666666667
+size: 6.34MB
+length: 3.45
+status: ok
+This song has no metadata
+
+
+50 Cent - In Da Club
+Extension: .mp3
+size: 5.19MB
+length: 3.216666666666667
 status: ok
 === Tags ====
-Title: Starry Eyes
-Artist: The Weeknd
-Album: Dawn FM
+Title: In Da Club
+Artist: 50 Cent
+Album: Get Rich Or Die Tryin'
 
-Travis Scott & HVME - Goosebumps
+Kevin Lyttle - Turn Me On
+Extension: .mp3
+size: 5.74MB
+length: 3.2
+status: ok
+=== Tags ====
+Title: Turn Me On
+Artist: Kevin Lyttle
+Album: Kevin Lyttle (US Domestic Release)
+
+Cardi B & Bruno Mars - Please Me (Official Video)
+Extension: .mp3
+size: 8.87MB
+length: 3.85
+status: ok
+This song has no metadata
+
+
+Davido - FEEL
+Extension: .mp3
+size: 5.94MB
+length: 2.566666666666667
+status: ok
+=== Tags ====
+Title: FEEL
+Artist: Davido
+Album: Timeless
+
+Ayra Starr - Where Do We Go
+Extension: .mp3
+size: 1.73MB
+length: 2.933333333333333
+status: ok
+=== Tags ====
+Title: Where Do We Go
+Artist: Ayra Starr
+Album: Unknown Album
+
+Nelly, Kelly Rowland - Dilemma
+Extension: .mp3
+size: 8.31MB
+length: 4.816666666666666
+status: ok
+=== Tags ====
+Title: Dilemma
+Artist: Nelly, Kelly Rowland
+Album: Nellyville
+
+Rema - DND
+Extension: .mp3
+size: 6.39MB
+length: 2.7666666666666666
+status: ok
+=== Tags ====
+Title: DND
+Artist: Rema
+Album: RAVAGE
+
+Burna Boy - Ye
+Extension: .mp3
+size: 3.52MB
+length: 3.8833333333333333
+status: ok
+=== Tags ====
+Title: Ye
+Artist: Burna Boy
+Album: Outside
+
+J'calm - Roleplay
+Extension: .mp3
+size: 2.11MB
+length: 2.4
+status: ok
+=== Tags ====
+Title: Roleplay
+Artist: J'calm
+Album: Unknown Album
+
+Sean Paul - Gimme the Light
+Extension: .mp3
+size: 5.89MB
+length: 3.8
+status: ok
+=== Tags ====
+Title: Gimme the Light
+Artist: Sean Paul
+Album: Dutty Rock
+
+Ayra Starr - Who s Dat Girl feat Rema
+Extension: .mp3
+size: 3.12MB
+length: 3.55
+status: ok
+=== Tags ====
+Title: Who's Dat Girl (feat. Rema)
+Artist: Ayra Starr
+Album: Unknown Album
+
+Ayra Starr - Treasure
+Extension: .mp3
+size: 2.38MB
+length: 2.65
+status: ok
+=== Tags ====
+Title: Treasure
+Artist: Ayra Starr
+Album: Unknown Album
+
+Beyoncé, Sean Paul - Baby Boy feat Sean Paul
+Extension: .mp3
+size: 6.76MB
+length: 4.066666666666666
+status: ok
+=== Tags ====
+Title: Baby Boy (feat. Sean Paul)
+Artist: Beyoncé, Sean Paul
+Album: Dangerously In Love
+
+KFMD, Qing Madi, Victony, BNXN - Come Slide
+Extension: .mp3
+size: 5.03MB
+length: 3.066666666666667
+status: ok
+=== Tags ====
+Title: Come Slide
+Artist: KFMD, Qing Madi, Victony, BNXN
+Album: Come Slide
+
+Snow - Informer
+Extension: .mp3
+size: 6.91MB
+length: 4.466666666666667
+status: ok
+=== Tags ====
+Title: Informer
+Artist: Snow
+Album: 12 Inches Of Snow
+
+ELEMENT EleéeH, Joshua Baraka, Bien - AYAYAAH
+Extension: .mp3
+size: 3.23MB
+length: 3.3666666666666667
+status: ok
+=== Tags ====
+Title: AYAYAAH
+Artist: ELEMENT EleéeH, Joshua Baraka, Bien
+Album: AYAYAAH
+
+Drake, Wizkid, Kyla - One Dance
 Extension: .mp3
 size: 2.53MB
-length: 2.7
+length: 2.9166666666666665
 status: ok
 === Tags ====
-Title: Goosebumps
-Artist: Travis Scott / HVME
-Album: Goosebumps (Remix)
+Title: One Dance
+Artist: Drake, Wizkid, Kyla
+Album: Views
 
-Tyla - Butterflies
+BBC World Service - HT Nhial Deng Nhial 02 May 12
 Extension: .mp3
-size: 2.70MB
-length: 2.7
+size: 10.76MB
+length: 23.4
 status: ok
 === Tags ====
-Title: Butterflies
-Artist: Tyla
-Album: TYLA
+Title: HT: Nhial Deng Nhial 02 May 12
+Artist: BBC World Service
+Album: HARDtalk
 
-Wizkid & Justin Bieber & Tems - Essence feat Justin Bieber Tems )
+Ms. Lauryn Hill - Doo Wop That Thing
 Extension: .mp3
-size: 4.08MB
-length: 4.383333333333334
+size: 7.56MB
+length: 5.333333333333333
 status: ok
 === Tags ====
-Title: Essence (feat. Justin Bieber & Tems)
-Artist: Wizkid / Justin Bieber / Tems
-Album: Essence (feat. Justin Bieber & Tems)
+Title: Doo Wop (That Thing)
+Artist: Ms. Lauryn Hill
+Album: The Miseducation of Lauryn Hill
+
+Abigail Chams, Harmonize - Me too (Official Music Video)
+Extension: .mp3
+size: 6.22MB
+length: 2.683333333333333
+status: ok
+This song has no metadata
+
+
+Ayra Starr - Midnight in New York
+Extension: .mp3
+size: 3.32MB
+length: 3.533333333333333
+status: ok
+=== Tags ====
+Title: Midnight in New York
+Artist: Ayra Starr
+Album: Unknown Album
+
+Maroon 5, Wiz Khalifa – Payphone (Lyrics) - Latin City (youtube)
+Extension: .mp3
+size: 8.83MB
+length: 3.85
+status: ok
+This song has no metadata
+
+
+Adekunle Gold, Davido - High
+Extension: .mp3
+size: 5.66MB
+length: 3.216666666666667
+status: ok
+=== Tags ====
+Title: High
+Artist: Adekunle Gold, Davido
+Album: Catch Me If You Can
+
+J Capri, Charly Black - Whine Kotch
+Extension: .mp3
+size: 6.08MB
+length: 3.6166666666666667
+status: ok
+=== Tags ====
+Title: Whine & Kotch
+Artist: J Capri, Charly Black
+Album: Whine & Kotch
+
+iNi Kamoze, Salaam Remi - Here Comes the Hotstepper Heartical Mix
+Extension: .mp3
+size: 6.26MB
+length: 4.166666666666667
+status: ok
+=== Tags ====
+Title: Here Comes the Hotstepper - Heartical Mix
+Artist: iNi Kamoze, Salaam Remi
+Album: Here Comes The Hotstepper
+
+Eve - Who s That Girl
+Extension: .mp3
+size: 8.60MB
+length: 4.683333333333334
+status: ok
+=== Tags ====
+Title: Who's That Girl?
+Artist: Eve
+Album: Scorpion
+
+Ayra Starr - Hot Body
+Extension: .mp3
+size: 2.56MB
+length: 2.716666666666667
+status: ok
+=== Tags ====
+Title: Hot Body
+Artist: Ayra Starr
+Album: Unknown Album
+
+Levi - Jump
+Extension: .mp3
+size: 4.50MB
+length: 2.55
+status: ok
+=== Tags ====
+Title: Jump
+Artist: Levi
+Album: Jump
+
+The Outhere Brothers - Boom Boom Boom Don t Break My Balls Mix
+Extension: .mp3
+size: 6.38MB
+length: 4.216666666666667
+status: ok
+=== Tags ====
+Title: Boom Boom Boom - Don't Break My Balls Mix
+Artist: The Outhere Brothers
+Album: 1 Polish 2 Biscuits & a Fish Sandwich
+
+Michelle Williams, Beyoncé, Kelly Rowland - Say Yes ft Beyoncé Kelly Rowland
+Extension: .mp3
+size: 7.12MB
+length: 4.2
+status: ok
+=== Tags ====
+Title: Say Yes (ft. Beyoncé & Kelly Rowland)
+Artist: Michelle Williams, Beyoncé, Kelly Rowland
+Album: Journey To Freedom
+
+DJ SPARK VEVO - 2025 AFROPARTY BEST OF THE BEST AFROBEATS MIX 2025 l AMAPIANO 2025 l WIZKID l OLAMIDE l FOLA
+Extension: .mp3
+size: 85.81MB
+length: 95.31666666666666
+status: ok
+=== Tags ====
+Title: 2025 AFROPARTY BEST OF THE BEST AFROBEATS VIDEO MIX 2025 l AMAPIANO 2025 l WIZKID l OLAMIDE l FOLA
+Artist: DJ SPARK VEVO
+Album: 2025 AFROPARTY BEST OF THE BEST AFROBEATS VIDEO MIX 2025 l AMAPIANO 2025 l WIZKID l OLAMIDE l FOLA
+
+Wcb wasafi ft Diamond Platnumz & Mbosso & Lavalava - JIBEBE (Official Video) - Mbosso (youtube)
+Extension: .mp3
+size: 8.74MB
+length: 3.816666666666667
+status: ok
+This song has no metadata
+
+
+Ayra Starr - Amazing feat kwn
+Extension: .mp3
+size: 2.53MB
+length: 2.7333333333333334
+status: ok
+=== Tags ====
+Title: Amazing (feat. kwn)
+Artist: Ayra Starr
+Album: Unknown Album

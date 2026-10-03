@@ -9,15 +9,17 @@ STATUSES = ["partial", "complete", "missing"]
 common_tags = ["official", "music", "video", "128k"]
 COMMON_TAGS = set(common_tags)
 COMMON_BITRATE_TAGS = ["128k", "128kbp"]
+RENAME_FORMATS = ["title_first", "artist_first"]
+
 
 
 def clean_title(title, artist):
-    cleaned = re.sub(r'[\x00-\x1f\\/:*?"<>|]', " ", title)
+    cleaned = re.sub(r'[\x00-\x1f\\/:*?<>|]', " ", title)
     cleaned = re.sub(f"{artist}", "", cleaned)
     broken = []
     word = ""
     for num, l in enumerate(cleaned):
-        print(l)
+        # print(l)
         try:
             next = cleaned[num + 1]
             if l.isalnum():
@@ -39,7 +41,7 @@ def clean_title(title, artist):
             word = ""
 
     normalized_title = ""
-    print(broken)
+    # print(broken)
     for w in broken:
         copy = w.lower()
         if copy not in COMMON_TAGS:
@@ -107,8 +109,8 @@ class Song:
         title = clean_title(title, artist)
         attempts = 0
         try:
-            print(title)
-            new_name = f"{artist} - {title}{self.extension}"
+            # print(title)
+            new_name = self.rename_format("title_first", title, artist, self.extension)
             os.rename(self.path, f"{dest_folder/new_name}")
             return new_name
         except FileExistsError:
@@ -118,3 +120,17 @@ class Song:
             return self.name
         except Exception as error:
             print(f"cause ==> {error}")
+    def rename_format(self, format, title, artist, extension):
+        if format in RENAME_FORMATS:
+            if format == "artist_first":
+                return f"{artist} - {title}{extension}"
+            elif format == "title_first":
+                return f"{title} - {artist}{extension}"
+        else:
+            print("enter a valid Rename format")
+        
+        
+
+
+        
+
