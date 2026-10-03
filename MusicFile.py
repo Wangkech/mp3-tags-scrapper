@@ -18,12 +18,13 @@ def clean_title(title, artist):
     cleaned = re.sub(f"{artist}", "", cleaned)
     broken = []
     word = ""
+    allowed_chars = r"['.]"
     for num, l in enumerate(cleaned):
         # print(l)
         try:
             next = cleaned[num + 1]
-            if l.isalnum():
-                if next.isalnum():
+            if l.isalnum() or l in allowed_chars:
+                if next.isalnum() or next in allowed_chars:
                     word += l
                 else:
                     word += l

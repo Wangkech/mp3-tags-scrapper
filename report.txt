@@ -7,57 +7,7 @@ partial tags: 0
 no tags: 7
 
 
-Rihanna, Drake - Work
-Extension: .mp3
-size: 5.96MB
-length: 3.65
-status: ok
-=== Tags ====
-Title: Work
-Artist: Rihanna, Drake
-Album: ANTI (Deluxe)
-
-Ayra Starr - Tornado
-Extension: .mp3
-size: 2.64MB
-length: 2.95
-status: ok
-=== Tags ====
-Title: Tornado
-Artist: Ayra Starr
-Album: Unknown Album
-
-Joshua Baraka - You
-Extension: .mp3
-size: 5.42MB
-length: 3.4833333333333334
-status: ok
-=== Tags ====
-Title: You
-Artist: Joshua Baraka
-Album: WATERSHED
-
-Ayra Starr - Dance
-Extension: .mp3
-size: 2.59MB
-length: 2.6333333333333333
-status: ok
-=== Tags ====
-Title: Dance
-Artist: Ayra Starr
-Album: Unknown Album
-
-Ayra Starr - Letter To God
-Extension: .mp3
-size: 3.27MB
-length: 3.45
-status: ok
-=== Tags ====
-Title: Letter To God
-Artist: Ayra Starr
-Album: Unknown Album
-
-Ayra Starr - Dangerous
+Dangerous - Ayra Starr
 Extension: .mp3
 size: 1.96MB
 length: 2.1
@@ -67,27 +17,107 @@ Title: Dangerous
 Artist: Ayra Starr
 Album: Unknown Album
 
-Ayra Starr - Gimme Dat feat Wizkid
+Say Yes ft Beyoncé Kelly Rowland - Michelle Williams, Beyoncé, Kelly Rowland
 Extension: .mp3
-size: 4.08MB
-length: 4.35
+size: 7.12MB
+length: 4.2
 status: ok
 === Tags ====
-Title: Gimme Dat (feat. Wizkid)
+Title: Say Yes (ft. Beyoncé & Kelly Rowland)
+Artist: Michelle Williams, Beyoncé, Kelly Rowland
+Album: Journey To Freedom
+
+Calm Down - Rema
+Extension: .mp3
+size: 8.44MB
+length: 3.65
+status: ok
+=== Tags ====
+Title: Calm Down
+Artist: Rema
+Album: Calm Down
+
+Come Slide - KFMD, Qing Madi, Victony, BNXN
+Extension: .mp3
+size: 5.03MB
+length: 3.066666666666667
+status: ok
+=== Tags ====
+Title: Come Slide
+Artist: KFMD, Qing Madi, Victony, BNXN
+Album: Come Slide
+
+Faded - Alan Walker
+Extension: .mp3
+size: 6.04MB
+length: 3.533333333333333
+status: ok
+=== Tags ====
+Title: Faded
+Artist: Alan Walker
+Album: Different World
+
+Tornado - Ayra Starr
+Extension: .mp3
+size: 2.64MB
+length: 2.95
+status: ok
+=== Tags ====
+Title: Tornado
 Artist: Ayra Starr
 Album: Unknown Album
 
-Puri, Jhorrmountain, Adje - Coño
+Who's That Girl - Eve
 Extension: .mp3
-size: 4.43MB
-length: 2.283333333333333
+size: 8.60MB
+length: 4.683333333333334
 status: ok
 === Tags ====
-Title: Coño
-Artist: Puri, Jhorrmountain, Adje
-Album: Coño
+Title: Who's That Girl?
+Artist: Eve
+Album: Scorpion
 
-Joshua Baraka - YoYo
+My God Is Good Live - Joyous Celebration
+Extension: .mp3
+size: 8.24MB
+length: 4.683333333333334
+status: ok
+=== Tags ====
+Title: My God Is Good - Live
+Artist: Joyous Celebration
+Album: Joyous Celebration 13: Live At The Mosaeik Theatre JHB
+
+Amazing feat kwn - Ayra Starr
+Extension: .mp3
+size: 2.53MB
+length: 2.7333333333333334
+status: ok
+=== Tags ====
+Title: Amazing (feat. kwn)
+Artist: Ayra Starr
+Album: Unknown Album
+
+Pullin' Me Back - Chingy, Tyrese
+Extension: .mp3
+size: 6.60MB
+length: 3.9
+status: ok
+=== Tags ====
+Title: Pullin' Me Back
+Artist: Chingy, Tyrese
+Album: Hoodstar (Deluxe Edition)
+
+HT Nhial Deng Nhial 02 May 12 - BBC World Service
+Extension: .mp3
+size: 10.76MB
+length: 23.4
+status: ok
+=== Tags ====
+Title: HT: Nhial Deng Nhial 02 May 12
+Artist: BBC World Service
+Album: HARDtalk
+
+YoYo - Joshua Baraka
 Extension: .mp3
 size: 3.15MB
 length: 3.25
@@ -97,17 +127,27 @@ Title: YoYo
 Artist: Joshua Baraka
 Album: Unknown Album
 
-Ayra Starr - Hot Body feat Danny Ocean Remix
+2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW MIX 2025 l AMAPIANO 2025 l DJ SPARK l CASHFLOW - DJ SPARK VEVO
 Extension: .mp3
-size: 2.86MB
-length: 3.0166666666666666
+size: 66.80MB
+length: 68.73333333333333
 status: ok
 === Tags ====
-Title: Hot Body (feat. Danny Ocean) - Remix
-Artist: Ayra Starr
-Album: Unknown Album
+Title: 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW VIDEO MIX 2025 l AMAPIANO 2025 l DJ SPARK l #CASHFLOW
+Artist: DJ SPARK VEVO
+Album: 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW VIDEO MIX 2025 l AMAPIANO 2025 l DJ SPARK l #CASHFLOW
 
-Drake - Find Your Love
+AYAYAAH - ELEMENT EleéeH, Joshua Baraka, Bien
+Extension: .mp3
+size: 3.23MB
+length: 3.3666666666666667
+status: ok
+=== Tags ====
+Title: AYAYAAH
+Artist: ELEMENT EleéeH, Joshua Baraka, Bien
+Album: AYAYAAH
+
+Find Your Love - Drake
 Extension: .mp3
 size: 5.51MB
 length: 3.4833333333333334
@@ -116,26 +156,6 @@ status: ok
 Title: Find Your Love
 Artist: Drake
 Album: Thank Me Later
-
-Beenie Man - Who Am I
-Extension: .mp3
-size: 5.79MB
-length: 3.2666666666666666
-status: ok
-=== Tags ====
-Title: Who Am I
-Artist: Beenie Man
-Album: Many Moods Of Moses
-
-Ja Rule, Ashanti - Always On Time
-Extension: .mp3
-size: 7.17MB
-length: 4.083333333333333
-status: ok
-=== Tags ====
-Title: Always On Time
-Artist: Ja Rule, Ashanti
-Album: Pain Is Love
 
 FAVE - Intentions (Official Visualizer)
 Extension: .mp3
@@ -153,107 +173,17 @@ status: ok
 This song has no metadata
 
 
-Chaka Khan - Ain t Nobody
+Letter To God - Ayra Starr
 Extension: .mp3
-size: 8.13MB
-length: 4.666666666666667
+size: 3.27MB
+length: 3.45
 status: ok
 === Tags ====
-Title: Ain't Nobody
-Artist: Chaka Khan
-Album: Epiphany: The Best of Chaka Khan, Vol. 1
-
-Ayra Starr - Misunderstood
-Extension: .mp3
-size: 2.70MB
-length: 3.0166666666666666
-status: ok
-=== Tags ====
-Title: Misunderstood
+Title: Letter To God
 Artist: Ayra Starr
 Album: Unknown Album
 
-Ayra Starr - Ms Paper feat Theodora
-Extension: .mp3
-size: 2.87MB
-length: 2.8
-status: ok
-=== Tags ====
-Title: Ms. Paper (feat. Theodora)
-Artist: Ayra Starr
-Album: Unknown Album
-
-The Second Voice - LET ME BE
-Extension: .mp3
-size: 7.49MB
-length: 3.15
-status: ok
-=== Tags ====
-Title: LET ME BE
-Artist: The Second Voice
-Album: LET ME BE
-
-Beyoncé - Crazy In Love No Rap Version
-Extension: .mp3
-size: 6.33MB
-length: 3.716666666666667
-status: ok
-=== Tags ====
-Title: Crazy In Love - No Rap Version
-Artist: Beyoncé
-Album: Crazy In Love
-
-Vybz Kartel - Fever
-Extension: .mp3
-size: 6.10MB
-length: 3.4
-status: ok
-=== Tags ====
-Title: Fever
-Artist: Vybz Kartel
-Album: King Of The Dancehall
-
-MOLIY&Tyla - Body Go with Tyla
-Extension: .mp3
-size: 6.34MB
-length: 2.75
-status: ok
-=== Tags ====
-Title: Body Go (with Tyla)
-Artist: MOLIY/Tyla
-Album: Body Go (with Tyla)
-
-Wayne Wonder - No Letting Go
-Extension: .mp3
-size: 4.95MB
-length: 3.3666666666666667
-status: ok
-=== Tags ====
-Title: No Letting Go
-Artist: Wayne Wonder
-Album: No Holding Back
-
-Chaka Demus & Pliers - Murder She Wrote
-Extension: .mp3
-size: 7.23MB
-length: 4.083333333333333
-status: ok
-=== Tags ====
-Title: Murder She Wrote
-Artist: Chaka Demus & Pliers
-Album: Tease Me
-
-DJ SPARK VEVO - 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW MIX 2025 l AMAPIANO 2025 l DJ SPARK l CASHFLOW
-Extension: .mp3
-size: 66.80MB
-length: 68.73333333333333
-status: ok
-=== Tags ====
-Title: 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW VIDEO MIX 2025 l AMAPIANO 2025 l DJ SPARK l #CASHFLOW
-Artist: DJ SPARK VEVO
-Album: 2025 AFROPARTY BEST OF THE BEST AFROBEATS NEW VIDEO MIX 2025 l AMAPIANO 2025 l DJ SPARK l #CASHFLOW
-
-Ayra Starr - Pressure feat Leon Thomas
+Pressure feat Leon Thomas - Ayra Starr
 Extension: .mp3
 size: 2.23MB
 length: 2.4
@@ -263,133 +193,17 @@ Title: Pressure (feat. Leon Thomas)
 Artist: Ayra Starr
 Album: Unknown Album
 
-Wayne Wonder - Bounce Along
+You - Joshua Baraka
 Extension: .mp3
-size: 8.32MB
-length: 4.833333333333333
+size: 5.42MB
+length: 3.4833333333333334
 status: ok
 === Tags ====
-Title: Bounce Along
-Artist: Wayne Wonder
-Album: No Holding Back
+Title: You
+Artist: Joshua Baraka
+Album: WATERSHED
 
-Alan Walker - Faded
-Extension: .mp3
-size: 6.04MB
-length: 3.533333333333333
-status: ok
-=== Tags ====
-Title: Faded
-Artist: Alan Walker
-Album: Different World
-
-Ayra Starr, ZAYN - Heaven Baby feat ZAYN
-Extension: .mp3
-size: 4.22MB
-length: 2.6333333333333333
-status: ok
-=== Tags ====
-Title: Heaven Baby (feat. ZAYN)
-Artist: Ayra Starr, ZAYN
-Album: Starrgirl
-
-Joyous Celebration - My God Is Good Live
-Extension: .mp3
-size: 8.24MB
-length: 4.683333333333334
-status: ok
-=== Tags ====
-Title: My God Is Good - Live
-Artist: Joyous Celebration
-Album: Joyous Celebration 13: Live At The Mosaeik Theatre JHB
-
-Labrinth - Forever From Euphoria Season 1 Soundtrack
-Extension: .mp3
-size: 6.10MB
-length: 3.3666666666666667
-status: ok
-=== Tags ====
-Title: Forever (From "Euphoria: Season 1" Soundtrack)
-Artist: Labrinth
-Album: Euphoria (Original Score from the HBO Series)
-
-Chingy, Tyrese - Pullin Me Back
-Extension: .mp3
-size: 6.60MB
-length: 3.9
-status: ok
-=== Tags ====
-Title: Pullin' Me Back
-Artist: Chingy, Tyrese
-Album: Hoodstar (Deluxe Edition)
-
-Rema - Calm Down
-Extension: .mp3
-size: 8.44MB
-length: 3.65
-status: ok
-=== Tags ====
-Title: Calm Down
-Artist: Rema
-Album: Calm Down
-
-Nana Nyadia – Habibi (Official Lyric Video) - Nana Nyadia (youtube)
-Extension: .mp3
-size: 6.34MB
-length: 3.45
-status: ok
-This song has no metadata
-
-
-50 Cent - In Da Club
-Extension: .mp3
-size: 5.19MB
-length: 3.216666666666667
-status: ok
-=== Tags ====
-Title: In Da Club
-Artist: 50 Cent
-Album: Get Rich Or Die Tryin'
-
-Kevin Lyttle - Turn Me On
-Extension: .mp3
-size: 5.74MB
-length: 3.2
-status: ok
-=== Tags ====
-Title: Turn Me On
-Artist: Kevin Lyttle
-Album: Kevin Lyttle (US Domestic Release)
-
-Cardi B & Bruno Mars - Please Me (Official Video)
-Extension: .mp3
-size: 8.87MB
-length: 3.85
-status: ok
-This song has no metadata
-
-
-Davido - FEEL
-Extension: .mp3
-size: 5.94MB
-length: 2.566666666666667
-status: ok
-=== Tags ====
-Title: FEEL
-Artist: Davido
-Album: Timeless
-
-Ayra Starr - Where Do We Go
-Extension: .mp3
-size: 1.73MB
-length: 2.933333333333333
-status: ok
-=== Tags ====
-Title: Where Do We Go
-Artist: Ayra Starr
-Album: Unknown Album
-
-Nelly, Kelly Rowland - Dilemma
+Dilemma - Nelly, Kelly Rowland
 Extension: .mp3
 size: 8.31MB
 length: 4.816666666666666
@@ -399,243 +213,7 @@ Title: Dilemma
 Artist: Nelly, Kelly Rowland
 Album: Nellyville
 
-Rema - DND
-Extension: .mp3
-size: 6.39MB
-length: 2.7666666666666666
-status: ok
-=== Tags ====
-Title: DND
-Artist: Rema
-Album: RAVAGE
-
-Burna Boy - Ye
-Extension: .mp3
-size: 3.52MB
-length: 3.8833333333333333
-status: ok
-=== Tags ====
-Title: Ye
-Artist: Burna Boy
-Album: Outside
-
-J'calm - Roleplay
-Extension: .mp3
-size: 2.11MB
-length: 2.4
-status: ok
-=== Tags ====
-Title: Roleplay
-Artist: J'calm
-Album: Unknown Album
-
-Sean Paul - Gimme the Light
-Extension: .mp3
-size: 5.89MB
-length: 3.8
-status: ok
-=== Tags ====
-Title: Gimme the Light
-Artist: Sean Paul
-Album: Dutty Rock
-
-Ayra Starr - Who s Dat Girl feat Rema
-Extension: .mp3
-size: 3.12MB
-length: 3.55
-status: ok
-=== Tags ====
-Title: Who's Dat Girl (feat. Rema)
-Artist: Ayra Starr
-Album: Unknown Album
-
-Ayra Starr - Treasure
-Extension: .mp3
-size: 2.38MB
-length: 2.65
-status: ok
-=== Tags ====
-Title: Treasure
-Artist: Ayra Starr
-Album: Unknown Album
-
-Beyoncé, Sean Paul - Baby Boy feat Sean Paul
-Extension: .mp3
-size: 6.76MB
-length: 4.066666666666666
-status: ok
-=== Tags ====
-Title: Baby Boy (feat. Sean Paul)
-Artist: Beyoncé, Sean Paul
-Album: Dangerously In Love
-
-KFMD, Qing Madi, Victony, BNXN - Come Slide
-Extension: .mp3
-size: 5.03MB
-length: 3.066666666666667
-status: ok
-=== Tags ====
-Title: Come Slide
-Artist: KFMD, Qing Madi, Victony, BNXN
-Album: Come Slide
-
-Snow - Informer
-Extension: .mp3
-size: 6.91MB
-length: 4.466666666666667
-status: ok
-=== Tags ====
-Title: Informer
-Artist: Snow
-Album: 12 Inches Of Snow
-
-ELEMENT EleéeH, Joshua Baraka, Bien - AYAYAAH
-Extension: .mp3
-size: 3.23MB
-length: 3.3666666666666667
-status: ok
-=== Tags ====
-Title: AYAYAAH
-Artist: ELEMENT EleéeH, Joshua Baraka, Bien
-Album: AYAYAAH
-
-Drake, Wizkid, Kyla - One Dance
-Extension: .mp3
-size: 2.53MB
-length: 2.9166666666666665
-status: ok
-=== Tags ====
-Title: One Dance
-Artist: Drake, Wizkid, Kyla
-Album: Views
-
-BBC World Service - HT Nhial Deng Nhial 02 May 12
-Extension: .mp3
-size: 10.76MB
-length: 23.4
-status: ok
-=== Tags ====
-Title: HT: Nhial Deng Nhial 02 May 12
-Artist: BBC World Service
-Album: HARDtalk
-
-Ms. Lauryn Hill - Doo Wop That Thing
-Extension: .mp3
-size: 7.56MB
-length: 5.333333333333333
-status: ok
-=== Tags ====
-Title: Doo Wop (That Thing)
-Artist: Ms. Lauryn Hill
-Album: The Miseducation of Lauryn Hill
-
-Abigail Chams, Harmonize - Me too (Official Music Video)
-Extension: .mp3
-size: 6.22MB
-length: 2.683333333333333
-status: ok
-This song has no metadata
-
-
-Ayra Starr - Midnight in New York
-Extension: .mp3
-size: 3.32MB
-length: 3.533333333333333
-status: ok
-=== Tags ====
-Title: Midnight in New York
-Artist: Ayra Starr
-Album: Unknown Album
-
-Maroon 5, Wiz Khalifa – Payphone (Lyrics) - Latin City (youtube)
-Extension: .mp3
-size: 8.83MB
-length: 3.85
-status: ok
-This song has no metadata
-
-
-Adekunle Gold, Davido - High
-Extension: .mp3
-size: 5.66MB
-length: 3.216666666666667
-status: ok
-=== Tags ====
-Title: High
-Artist: Adekunle Gold, Davido
-Album: Catch Me If You Can
-
-J Capri, Charly Black - Whine Kotch
-Extension: .mp3
-size: 6.08MB
-length: 3.6166666666666667
-status: ok
-=== Tags ====
-Title: Whine & Kotch
-Artist: J Capri, Charly Black
-Album: Whine & Kotch
-
-iNi Kamoze, Salaam Remi - Here Comes the Hotstepper Heartical Mix
-Extension: .mp3
-size: 6.26MB
-length: 4.166666666666667
-status: ok
-=== Tags ====
-Title: Here Comes the Hotstepper - Heartical Mix
-Artist: iNi Kamoze, Salaam Remi
-Album: Here Comes The Hotstepper
-
-Eve - Who s That Girl
-Extension: .mp3
-size: 8.60MB
-length: 4.683333333333334
-status: ok
-=== Tags ====
-Title: Who's That Girl?
-Artist: Eve
-Album: Scorpion
-
-Ayra Starr - Hot Body
-Extension: .mp3
-size: 2.56MB
-length: 2.716666666666667
-status: ok
-=== Tags ====
-Title: Hot Body
-Artist: Ayra Starr
-Album: Unknown Album
-
-Levi - Jump
-Extension: .mp3
-size: 4.50MB
-length: 2.55
-status: ok
-=== Tags ====
-Title: Jump
-Artist: Levi
-Album: Jump
-
-The Outhere Brothers - Boom Boom Boom Don t Break My Balls Mix
-Extension: .mp3
-size: 6.38MB
-length: 4.216666666666667
-status: ok
-=== Tags ====
-Title: Boom Boom Boom - Don't Break My Balls Mix
-Artist: The Outhere Brothers
-Album: 1 Polish 2 Biscuits & a Fish Sandwich
-
-Michelle Williams, Beyoncé, Kelly Rowland - Say Yes ft Beyoncé Kelly Rowland
-Extension: .mp3
-size: 7.12MB
-length: 4.2
-status: ok
-=== Tags ====
-Title: Say Yes (ft. Beyoncé & Kelly Rowland)
-Artist: Michelle Williams, Beyoncé, Kelly Rowland
-Album: Journey To Freedom
-
-DJ SPARK VEVO - 2025 AFROPARTY BEST OF THE BEST AFROBEATS MIX 2025 l AMAPIANO 2025 l WIZKID l OLAMIDE l FOLA
+2025 AFROPARTY BEST OF THE BEST AFROBEATS MIX 2025 l AMAPIANO 2025 l WIZKID l OLAMIDE l FOLA - DJ SPARK VEVO
 Extension: .mp3
 size: 85.81MB
 length: 95.31666666666666
@@ -645,6 +223,408 @@ Title: 2025 AFROPARTY BEST OF THE BEST AFROBEATS VIDEO MIX 2025 l AMAPIANO 2025 
 Artist: DJ SPARK VEVO
 Album: 2025 AFROPARTY BEST OF THE BEST AFROBEATS VIDEO MIX 2025 l AMAPIANO 2025 l WIZKID l OLAMIDE l FOLA
 
+Here Comes the Hotstepper Heartical Mix - iNi Kamoze, Salaam Remi
+Extension: .mp3
+size: 6.26MB
+length: 4.166666666666667
+status: ok
+=== Tags ====
+Title: Here Comes the Hotstepper - Heartical Mix
+Artist: iNi Kamoze, Salaam Remi
+Album: Here Comes The Hotstepper
+
+Work - Rihanna, Drake
+Extension: .mp3
+size: 5.96MB
+length: 3.65
+status: ok
+=== Tags ====
+Title: Work
+Artist: Rihanna, Drake
+Album: ANTI (Deluxe)
+
+Crazy In Love No Rap Version - Beyoncé
+Extension: .mp3
+size: 6.33MB
+length: 3.716666666666667
+status: ok
+=== Tags ====
+Title: Crazy In Love - No Rap Version
+Artist: Beyoncé
+Album: Crazy In Love
+
+Ain't Nobody - Chaka Khan
+Extension: .mp3
+size: 8.13MB
+length: 4.666666666666667
+status: ok
+=== Tags ====
+Title: Ain't Nobody
+Artist: Chaka Khan
+Album: Epiphany: The Best of Chaka Khan, Vol. 1
+
+Nana Nyadia – Habibi (Official Lyric Video) - Nana Nyadia (youtube)
+Extension: .mp3
+size: 6.34MB
+length: 3.45
+status: ok
+This song has no metadata
+
+
+Body Go with Tyla - MOLIY&Tyla
+Extension: .mp3
+size: 6.34MB
+length: 2.75
+status: ok
+=== Tags ====
+Title: Body Go (with Tyla)
+Artist: MOLIY/Tyla
+Album: Body Go (with Tyla)
+
+Midnight in New York - Ayra Starr
+Extension: .mp3
+size: 3.32MB
+length: 3.533333333333333
+status: ok
+=== Tags ====
+Title: Midnight in New York
+Artist: Ayra Starr
+Album: Unknown Album
+
+FEEL - Davido
+Extension: .mp3
+size: 5.94MB
+length: 2.566666666666667
+status: ok
+=== Tags ====
+Title: FEEL
+Artist: Davido
+Album: Timeless
+
+Who's Dat Girl feat Rema - Ayra Starr
+Extension: .mp3
+size: 3.12MB
+length: 3.55
+status: ok
+=== Tags ====
+Title: Who's Dat Girl (feat. Rema)
+Artist: Ayra Starr
+Album: Unknown Album
+
+Misunderstood - Ayra Starr
+Extension: .mp3
+size: 2.70MB
+length: 3.0166666666666666
+status: ok
+=== Tags ====
+Title: Misunderstood
+Artist: Ayra Starr
+Album: Unknown Album
+
+Where Do We Go - Ayra Starr
+Extension: .mp3
+size: 1.73MB
+length: 2.933333333333333
+status: ok
+=== Tags ====
+Title: Where Do We Go
+Artist: Ayra Starr
+Album: Unknown Album
+
+Informer - Snow
+Extension: .mp3
+size: 6.91MB
+length: 4.466666666666667
+status: ok
+=== Tags ====
+Title: Informer
+Artist: Snow
+Album: 12 Inches Of Snow
+
+Cardi B & Bruno Mars - Please Me (Official Video)
+Extension: .mp3
+size: 8.87MB
+length: 3.85
+status: ok
+This song has no metadata
+
+
+Bounce Along - Wayne Wonder
+Extension: .mp3
+size: 8.32MB
+length: 4.833333333333333
+status: ok
+=== Tags ====
+Title: Bounce Along
+Artist: Wayne Wonder
+Album: No Holding Back
+
+Gimme Dat feat Wizkid - Ayra Starr
+Extension: .mp3
+size: 4.08MB
+length: 4.35
+status: ok
+=== Tags ====
+Title: Gimme Dat (feat. Wizkid)
+Artist: Ayra Starr
+Album: Unknown Album
+
+Forever From Euphoria Season 1 Soundtrack - Labrinth
+Extension: .mp3
+size: 6.10MB
+length: 3.3666666666666667
+status: ok
+=== Tags ====
+Title: Forever (From "Euphoria: Season 1" Soundtrack)
+Artist: Labrinth
+Album: Euphoria (Original Score from the HBO Series)
+
+Always On Time - Ja Rule, Ashanti
+Extension: .mp3
+size: 7.17MB
+length: 4.083333333333333
+status: ok
+=== Tags ====
+Title: Always On Time
+Artist: Ja Rule, Ashanti
+Album: Pain Is Love
+
+Coño - Puri, Jhorrmountain, Adje
+Extension: .mp3
+size: 4.43MB
+length: 2.283333333333333
+status: ok
+=== Tags ====
+Title: Coño
+Artist: Puri, Jhorrmountain, Adje
+Album: Coño
+
+Heaven Baby feat ZAYN - Ayra Starr, ZAYN
+Extension: .mp3
+size: 4.22MB
+length: 2.6333333333333333
+status: ok
+=== Tags ====
+Title: Heaven Baby (feat. ZAYN)
+Artist: Ayra Starr, ZAYN
+Album: Starrgirl
+
+Roleplay - J'calm
+Extension: .mp3
+size: 2.11MB
+length: 2.4
+status: ok
+=== Tags ====
+Title: Roleplay
+Artist: J'calm
+Album: Unknown Album
+
+Treasure - Ayra Starr
+Extension: .mp3
+size: 2.38MB
+length: 2.65
+status: ok
+=== Tags ====
+Title: Treasure
+Artist: Ayra Starr
+Album: Unknown Album
+
+Doo Wop That Thing - Ms. Lauryn Hill
+Extension: .mp3
+size: 7.56MB
+length: 5.333333333333333
+status: ok
+=== Tags ====
+Title: Doo Wop (That Thing)
+Artist: Ms. Lauryn Hill
+Album: The Miseducation of Lauryn Hill
+
+No Letting Go - Wayne Wonder
+Extension: .mp3
+size: 4.95MB
+length: 3.3666666666666667
+status: ok
+=== Tags ====
+Title: No Letting Go
+Artist: Wayne Wonder
+Album: No Holding Back
+
+Hot Body feat Danny Ocean Remix - Ayra Starr
+Extension: .mp3
+size: 2.86MB
+length: 3.0166666666666666
+status: ok
+=== Tags ====
+Title: Hot Body (feat. Danny Ocean) - Remix
+Artist: Ayra Starr
+Album: Unknown Album
+
+Ms Paper feat Theodora - Ayra Starr
+Extension: .mp3
+size: 2.87MB
+length: 2.8
+status: ok
+=== Tags ====
+Title: Ms. Paper (feat. Theodora)
+Artist: Ayra Starr
+Album: Unknown Album
+
+Baby Boy feat Sean Paul - Beyoncé, Sean Paul
+Extension: .mp3
+size: 6.76MB
+length: 4.066666666666666
+status: ok
+=== Tags ====
+Title: Baby Boy (feat. Sean Paul)
+Artist: Beyoncé, Sean Paul
+Album: Dangerously In Love
+
+Who Am I - Beenie Man
+Extension: .mp3
+size: 5.79MB
+length: 3.2666666666666666
+status: ok
+=== Tags ====
+Title: Who Am I
+Artist: Beenie Man
+Album: Many Moods Of Moses
+
+DND - Rema
+Extension: .mp3
+size: 6.39MB
+length: 2.7666666666666666
+status: ok
+=== Tags ====
+Title: DND
+Artist: Rema
+Album: RAVAGE
+
+Abigail Chams, Harmonize - Me too (Official Music Video)
+Extension: .mp3
+size: 6.22MB
+length: 2.683333333333333
+status: ok
+This song has no metadata
+
+
+Murder She Wrote - Chaka Demus & Pliers
+Extension: .mp3
+size: 7.23MB
+length: 4.083333333333333
+status: ok
+=== Tags ====
+Title: Murder She Wrote
+Artist: Chaka Demus & Pliers
+Album: Tease Me
+
+Maroon 5, Wiz Khalifa – Payphone (Lyrics) - Latin City (youtube)
+Extension: .mp3
+size: 8.83MB
+length: 3.85
+status: ok
+This song has no metadata
+
+
+High - Adekunle Gold, Davido
+Extension: .mp3
+size: 5.66MB
+length: 3.216666666666667
+status: ok
+=== Tags ====
+Title: High
+Artist: Adekunle Gold, Davido
+Album: Catch Me If You Can
+
+Fever - Vybz Kartel
+Extension: .mp3
+size: 6.10MB
+length: 3.4
+status: ok
+=== Tags ====
+Title: Fever
+Artist: Vybz Kartel
+Album: King Of The Dancehall
+
+LET ME BE - The Second Voice
+Extension: .mp3
+size: 7.49MB
+length: 3.15
+status: ok
+=== Tags ====
+Title: LET ME BE
+Artist: The Second Voice
+Album: LET ME BE
+
+Whine Kotch - J Capri, Charly Black
+Extension: .mp3
+size: 6.08MB
+length: 3.6166666666666667
+status: ok
+=== Tags ====
+Title: Whine & Kotch
+Artist: J Capri, Charly Black
+Album: Whine & Kotch
+
+Turn Me On - Kevin Lyttle
+Extension: .mp3
+size: 5.74MB
+length: 3.2
+status: ok
+=== Tags ====
+Title: Turn Me On
+Artist: Kevin Lyttle
+Album: Kevin Lyttle (US Domestic Release)
+
+Ye - Burna Boy
+Extension: .mp3
+size: 3.52MB
+length: 3.8833333333333333
+status: ok
+=== Tags ====
+Title: Ye
+Artist: Burna Boy
+Album: Outside
+
+Jump - Levi
+Extension: .mp3
+size: 4.50MB
+length: 2.55
+status: ok
+=== Tags ====
+Title: Jump
+Artist: Levi
+Album: Jump
+
+In Da Club - 50 Cent
+Extension: .mp3
+size: 5.19MB
+length: 3.216666666666667
+status: ok
+=== Tags ====
+Title: In Da Club
+Artist: 50 Cent
+Album: Get Rich Or Die Tryin'
+
+Boom Boom Boom Don't Break My Balls Mix - The Outhere Brothers
+Extension: .mp3
+size: 6.38MB
+length: 4.216666666666667
+status: ok
+=== Tags ====
+Title: Boom Boom Boom - Don't Break My Balls Mix
+Artist: The Outhere Brothers
+Album: 1 Polish 2 Biscuits & a Fish Sandwich
+
+One Dance - Drake, Wizkid, Kyla
+Extension: .mp3
+size: 2.53MB
+length: 2.9166666666666665
+status: ok
+=== Tags ====
+Title: One Dance
+Artist: Drake, Wizkid, Kyla
+Album: Views
+
 Wcb wasafi ft Diamond Platnumz & Mbosso & Lavalava - JIBEBE (Official Video) - Mbosso (youtube)
 Extension: .mp3
 size: 8.74MB
@@ -653,12 +633,32 @@ status: ok
 This song has no metadata
 
 
-Ayra Starr - Amazing feat kwn
+Dance - Ayra Starr
 Extension: .mp3
-size: 2.53MB
-length: 2.7333333333333334
+size: 2.59MB
+length: 2.6333333333333333
 status: ok
 === Tags ====
-Title: Amazing (feat. kwn)
+Title: Dance
 Artist: Ayra Starr
 Album: Unknown Album
+
+Hot Body - Ayra Starr
+Extension: .mp3
+size: 2.56MB
+length: 2.716666666666667
+status: ok
+=== Tags ====
+Title: Hot Body
+Artist: Ayra Starr
+Album: Unknown Album
+
+Gimme the Light - Sean Paul
+Extension: .mp3
+size: 5.89MB
+length: 3.8
+status: ok
+=== Tags ====
+Title: Gimme the Light
+Artist: Sean Paul
+Album: Dutty Rock
